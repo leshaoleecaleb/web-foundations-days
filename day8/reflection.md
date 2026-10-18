@@ -1,0 +1,7 @@
+# Day 8 Reflection
+
+The most difficult concept in this course was understanding how a system can handle many users making requests at the same time without losing data or producing incorrect results. At first, concepts such as APIs, database relationships, caching, and transactions were confusing because I was still learning how the different parts of an application work together. I overcame this by breaking problems into smaller steps, practising with the QuickNotes project, and learning how each component communicates with the others. Designing TicketHub helped me understand why a database transaction and unique constraints are important when many people try to buy the same seat.
+
+Based on the feedback and grading experience from my earlier QuickNotes work, I would improve my approach to checking project requirements before submitting. I would compare every requirement against my implementation, test the important features, review my file names and folder structure, and make sure my documentation explains my decisions clearly. For TicketHub, I would also improve the design by adding more detailed failure-handling scenarios for expired seat holds, unsuccessful payments, and database problems.
+
+Next, I want to learn backend development with JavaScript and Node.js, followed by PostgreSQL and REST API implementation. I also want to practise authentication, automated testing, and deploying applications. My goal is to move beyond designing systems on paper and build a working application that is reliable, secure, and useful to real users.
